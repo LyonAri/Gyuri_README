@@ -153,7 +153,7 @@
 2. q + [매크로 이름]을 입력 (recording 시작)
 ![unknown (5)](https://user-images.githubusercontent.com/106807456/171998707-9ba773d9-7638-4481-87e0-801a3e4aee9c.png)
 
-(실행화면은 매크로 이름=a)
+(실행화면의 매크로 이름 = a)
 
 3. 내가 반복하길 원하는 동작 및 키 입력
 ![unknown (6)](https://user-images.githubusercontent.com/106807456/171998758-3a5f77fd-55fb-4734-86d7-9fcb37105322.png)
@@ -166,3 +166,7 @@
 
 6. @@ 입력으로 방금 실행한 매크로 실행
 ![unknown (9)](https://user-images.githubusercontent.com/106807456/171998886-1f939890-0a3d-4d7b-8673-e6f8fbed680d.png)
+
+7.[실행하고 싶은 횟수] + @ + [매크로 이름]
+![unknown (10)](https://user-images.githubusercontent.com/106807456/171999032-ea1137b9-464a-4400-9f42-82c42535f88b.png)
+(실행화면 = 5@a)
