@@ -148,7 +148,7 @@
 * 매크로 : 특장한 움직임 또는 입력을 키에 저장함으로써 단순하면서 반복되는 동작을 쉽고 빠르게 해주는 것
 
 1. 초기 vim 에디터 화면
-![unknown](https://user-images.githubusercontent.com/106807456/171998674-8a42d7b6-60b6-4f21-b661-3feadd950a65.png)
+![unknown (4)](https://user-images.githubusercontent.com/106807456/171998906-54ac3932-d1fa-4be1-b66c-74a5d53b9427.png)
 
 2. q + [매크로 이름]을 입력 (recording 시작)
 ![unknown (5)](https://user-images.githubusercontent.com/106807456/171998707-9ba773d9-7638-4481-87e0-801a3e4aee9c.png)
