@@ -2,7 +2,7 @@
 ## 리눅스 명령어 및 vim 에디터 매크로 정리
 #### 20213069 박규리
 ---
-* 리눅스 명령어
+* # 리눅스 명령어
 
 >## 1. top 명령어
 >
@@ -10,9 +10,9 @@
 >* 유닉스 계열의 시스템에서 프로세스 목록을 CPU 사용률이 높은 것부터 보여줌
 >* 시스템의 프로세스와 메모리 사용상태를 5초의 간격으로 업데이트 하여 화면에 출력
 >
->>![unknown](https://user-images.githubusercontent.com/106807456/171993354-07add5cf-1795-43cc-803e-1b154d7f19ed.png)
->>
 >>* #### top 명령어 실행화면
+>>
+>>![unknown](https://user-images.githubusercontent.com/106807456/171993354-07add5cf-1795-43cc-803e-1b154d7f19ed.png)
 >>
 >>top - 18:20:37 : 현재 서버의 시간
 >>
@@ -67,9 +67,8 @@
 >* ps 명령어는 process status 의 약자
 >* 현재 실행중인 프로세스 목록과 상태를 보여줌(윈도우의 작업관리자)
 >
->>![unknown (1)](https://user-images.githubusercontent.com/106807456/171994644-d2e90a5c-467e-488f-bfcb-dedca66eeaa6.png)
->>
 >>* #### ps 명령어 실행화면(옵션 X)
+>>![unknown (1)](https://user-images.githubusercontent.com/106807456/171994644-d2e90a5c-467e-488f-bfcb-dedca66eeaa6.png)
 >>
 >>PID : (일시적인)프로세스 번호
 >>
@@ -79,11 +78,18 @@
 >>
 >>CMD : 프로세스가 실행중인 명령
 >
->* #### ps 주요옵션
+>>* #### ps 주요옵션
+>>
+>>![unknown (2)](https://user-images.githubusercontent.com/106807456/171994923-a7f839b0-39b4-492d-b321-3b0cf14c5279.png)
 >>
 >>|옵션|설명|
+>>|---|---|
 >>|-e|모든 프로세스를 출력해준다.|
 >>|-f|풀 포맷으로 보여준다.(UID, PID 등)|
 >>|-l|긴 포맷으로 보여준다.|
 >>|p, -p|특정 PID의 프로세스를 보여준다.|
 >>|-u|특정 사용자의 프로세스를 보여준다.|
+
+>## 3. jobs 명령어
+>* 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경 되었지만 보고되지 않은 상태 등을 표시하는 명령어
+>
