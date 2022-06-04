@@ -149,6 +149,7 @@
 
 1. 초기 vim 에디터 화면
 ![unknown (4)](https://user-images.githubusercontent.com/106807456/171998906-54ac3932-d1fa-4be1-b66c-74a5d53b9427.png)
+<img src="https://user-images.githubusercontent.com/106807456/171998906-54ac3932-d1fa-4be1-b66c-74a5d53b9427.png" width="50%" height="50%">
 
 2. q + [매크로 이름]을 입력 (recording 시작)
 ![unknown (5)](https://user-images.githubusercontent.com/106807456/171998707-9ba773d9-7638-4481-87e0-801a3e4aee9c.png)
