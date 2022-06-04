@@ -167,6 +167,6 @@
 6. @@ 입력으로 방금 실행한 매크로 실행
 ![unknown (9)](https://user-images.githubusercontent.com/106807456/171998886-1f939890-0a3d-4d7b-8673-e6f8fbed680d.png)
 
-7.[실행하고 싶은 횟수] + @ + [매크로 이름]
+7. [실행하고 싶은 횟수] + @ + [매크로 이름]
 ![unknown (10)](https://user-images.githubusercontent.com/106807456/171999032-ea1137b9-464a-4400-9f42-82c42535f88b.png)
 (실행화면 = 5@a)
