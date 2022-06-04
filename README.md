@@ -152,7 +152,6 @@
 
 2. q + [매크로 이름]을 입력 (recording 시작)
 ![unknown (5)](https://user-images.githubusercontent.com/106807456/171998707-9ba773d9-7638-4481-87e0-801a3e4aee9c.png)
-
 (실행화면의 매크로 이름 = a)
 
 3. 내가 반복하길 원하는 동작 및 키 입력
