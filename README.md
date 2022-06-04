@@ -4,7 +4,6 @@
 ---
 * # 리눅스 명령어
 
-
 >## 1. top 명령어
 >
 >* top 명령어는 table of processes 의 약자
@@ -143,3 +142,27 @@
 >> 15 ) SIGTERM : 기본 값, 종료 요청 시그널
 >> 
 >> 20 ) SIGTSTP : Ctrl + Z 일시 중지 요청 시그널
+---
+* # vim 에디터
+## 매크로 사용방법(q)
+* 매크로 : 특장한 움직임 또는 입력을 키에 저장함으로써 단순하면서 반복되는 동작을 쉽고 빠르게 해주는 것
+
+1. 초기 vim 에디터 화면
+![unknown](https://user-images.githubusercontent.com/106807456/171998674-8a42d7b6-60b6-4f21-b661-3feadd950a65.png)
+
+2. q + [매크로 이름]을 입력 (recording 시작)
+![unknown (5)](https://user-images.githubusercontent.com/106807456/171998707-9ba773d9-7638-4481-87e0-801a3e4aee9c.png)
+
+(실행화면은 매크로 이름=a)
+
+3. 내가 반복하길 원하는 동작 및 키 입력
+![unknown (6)](https://user-images.githubusercontent.com/106807456/171998758-3a5f77fd-55fb-4734-86d7-9fcb37105322.png)
+
+4. q 입력 (recording 종료)
+![unknown (7)](https://user-images.githubusercontent.com/106807456/171998801-b8135ea1-966b-4f6e-9b95-0339eca87846.png)
+
+5. @ + [매크로 이름]을 입력
+![unknown (8)](https://user-images.githubusercontent.com/106807456/171998852-93643fb8-80e1-40bf-b595-572b313129de.png)
+
+6. @@ 입력으로 방금 실행한 매크로 실행
+![unknown (9)](https://user-images.githubusercontent.com/106807456/171998886-1f939890-0a3d-4d7b-8673-e6f8fbed680d.png)
